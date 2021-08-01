@@ -1,20 +1,7 @@
 config:
   info: 'im github上 fo info message'
 server:
-  port: 3344
-spring:
-  application:
-    name: cloud-config-center
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/clsnull/springcloud-config.git
-          search-paths:
-          ###搜索目录
-            - springcloud-config
-      #读取分支
-      label: main
+  port: 3366
 eureka:
   client:
     service-url:
