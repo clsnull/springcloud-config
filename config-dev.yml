@@ -1,5 +1,5 @@
 config:
-  info: 'im github上 fo info message 65545'
+  info: 'im github上 fo info message 886'
 server:
   port: 3366
 eureka:
